@@ -1,7 +1,7 @@
 name: Beta News Mr Green
 favicon: null
-layout_spectrum: 0.5910555638838559
-typography_spectrum: 0.6632612561807036
+layout_spectrum: 0.93044
+typography_spectrum: 0.61629
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.6283325562253594
-  lightness: 0.9077572438400239
-  saturation: 0.8217190762516111
-  rhythmicContrast: 0.7947833528742194
+    - '#000000'
+    - '#c3c4bf'
+    - '#004506'
+    - '#7f8325'
+    - '#525b1a'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
