@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "Bonjour, et bienvenue sur Beta News Mr Green. BNMG c'est le site écologique en version Beta, comprenez que tout ce que vous lirez sur ce site est et restera en version Beta. Autrement dit, toutes les informations que vous pouvez lire sur ce site ne sont pas confirmées par nos soins car en version Beta et à ce titre nous vous invitons à faire preuve de l'objectivité qui vous caractérise pour approfondir le sujet. Toute ressemblance avec des personnes ou des situations existantes ou ayant existé ne saurait être que fortuite et indépendante de notre volonté."
-datePublished: '2016-03-11T09:52:13.449Z'
-dateModified: '2016-03-11T09:43:59.597Z'
+description: "Bonjour, et bienvenue sur Beta News Mr Green. BNMG c'est le site écologique en version Beta, comprenez que tout ce que vous lirez sur ce site est et restera en version Beta. Autrement dit, toutes les informations que vous pouvez lire sur ce site ne sont pas confirmées par nos soins car en version Beta, et à ce titre nous vous invitons à faire preuve de l'objectivité qui vous caractérise pour approfondir le sujet. Toute ressemblance avec des personnes ou des situations existantes ou ayant existé ne saurait être que fortuite et indépendante de notre volonté."
+datePublished: '2016-03-11T09:59:59.134Z'
+dateModified: '2016-03-11T09:59:58.101Z'
 title: Bienvenue sur Beta News Mr Green (BNMG)
 author: []
+sourcePath: _posts/2016-03-11-bienvenue-sur-beta-news-mr-green-bnmg.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-bienvenue-sur-beta-news-mr-green-bnmg.md
-published: true
 url: bienvenue-sur-beta-news-mr-green-bnmg/index.html
 _type: Article
 
@@ -26,7 +26,7 @@ _type: Article
 
 ## Bienvenue sur Beta News Mr Green (BNMG)
 
-Bonjour, et bienvenue sur Beta News Mr Green. BNMG c'est le site écologique en version Beta, comprenez que tout ce que vous lirez sur ce site est et restera en version Beta. Autrement dit, toutes les informations que vous pouvez lire sur ce site ne sont pas confirmées par nos soins car en version Beta et à ce titre nous vous invitons à faire preuve de l'objectivité qui vous caractérise pour approfondir le sujet. Toute ressemblance avec des personnes ou des situations existantes ou ayant existé ne saurait être que fortuite et indépendante de notre volonté.
+Bonjour, et bienvenue sur Beta News Mr Green. BNMG c'est le site écologique en version Beta, comprenez que tout ce que vous lirez sur ce site est et restera en version Beta. Autrement dit, toutes les informations que vous pouvez lire sur ce site ne sont pas confirmées par nos soins car en version Beta, et à ce titre nous vous invitons à faire preuve de l'objectivité qui vous caractérise pour approfondir le sujet. Toute ressemblance avec des personnes ou des situations existantes ou ayant existé ne saurait être que fortuite et indépendante de notre volonté.
 
 En consultant ce site, vous en acceptez le règlement sus-énoncé et vous vous engagez à le respecter.
 
