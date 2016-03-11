@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Beta News Mr Green]]></title>
+        <description><![CDATA[Beta News Mr Green]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 09:54:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bienvenue sur Beta News Mr Green (BNMG)]]></title>
+            <description><![CDATA[<article><h1>Bienvenue sur Beta News Mr Green (BNMG)</h1><p>Bonjour, et bienvenue sur Beta News Mr Green. BNMG c'est le site écologique en version Beta, comprenez que tout ce que vous lirez sur ce site est et restera en version Beta. Autrement dit, toutes les informations que vous pouvez lire sur ce site ne sont pas confirmées par nos soins car en version Beta et à ce titre nous vous invitons à faire preuve de l'objectivité qui vous caractérise pour approfondir le sujet. Toute ressemblance avec des personnes ou des situations existantes ou ayant existé ne saurait être que fortuite et indépendante de notre volonté.</p></article>]]></description>
+            <link>undefinedbienvenue-sur-beta-news-mr-green-bnmg/index.html</link>
+            <guid isPermaLink="false">a0c6a4d2-f07a-426e-a86d-2223fc1531ae</guid>
+            <pubDate>Fri, 11 Mar 2016 09:52:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
