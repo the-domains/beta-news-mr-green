@@ -1,6 +1,6 @@
 name: Beta News Mr Green
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.74459
 typography_spectrum: 0.61629
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#004506'
     - '#7f8325'
     - '#525b1a'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.6875
   saturation: 0.6875
   rhythmicContrast: 0.5
